@@ -11,4 +11,5 @@
 
 2. 开发环境搭建
  * 要将application-dev.yml中的用户密码改为自己的
+ * 对SkyApplication选择debug（而不是run），可以设置断点看到前端返回的数据（run模式则看不到）
  * 
